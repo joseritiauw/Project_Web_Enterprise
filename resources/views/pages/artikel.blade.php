@@ -1,3 +1,8 @@
+<!--
+Jose Manuel Ritiauw
+41523010104 
+--!>
+
 @extends('layouts.app')
 
 @section('title', 'Artikel')
